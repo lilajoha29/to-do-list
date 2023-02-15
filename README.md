@@ -1,5 +1,7 @@
 # React Todo App ☑️
-A to-do list app made with React as front-end and Node, Express and MongoDB as back-end.
+A to-do list app realiza trabajos de creación de la agenda personal y quiere realizar una app que guarde, actualice, borre y muestre tareas a realizar.
+
+![Carta](https://github.com/lilajoha29/to-do-list/blob/8583091a95a8d8bc6ae6edf5fd7118f6f56b95e5/to-do-front/src/Img/Carta%20Graficaa.png)
 
 ## Starting 🚀
 
@@ -14,9 +16,9 @@ What things do you need to install the software and how to see it on the local d
 
 ```bash
 
-  -cd "name of the place where you want the folder"
-   -mk "folder name"
-   -git clone https://github.com/lilajoha29/to-do-front.git
+  - cd "name of the place where you want the folder"
+  - mk "folder name"
+  - git clone https://github.com/lilajoha29/to-do-front.git
 ```
 
 ### Installation 🔧
@@ -42,8 +44,10 @@ What things do you need to install the software and how to see it on the local d
 The deployment is ready to run
 
 ```bash
-https://proyectxxxxxxxxxxxxxxxxxxxx
+https://to-do-list-front.vercel.app/
 ```
+
+![Usuario](https://github.com/lilajoha29/to-do-list/blob/0fae490473daca60c0c5a686bedacef42168f834/to-do-front/src/Img/responsiveeee.png)
 
 ## Built with 🛠️
 
