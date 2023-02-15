@@ -1,5 +1,5 @@
 # React Todo App ☑️
-A to-do list app realiza trabajos de creación de la agenda personal y quiere realizar una app que guarde, actualice, borre y muestre tareas a realizar.
+A to-do list app does work to create the personal agenda and wants to make an app that saves, updates, deletes and shows tasks to be done.
 
 ![Carta](https://github.com/lilajoha29/to-do-list/blob/8583091a95a8d8bc6ae6edf5fd7118f6f56b95e5/to-do-front/src/Img/Carta%20Graficaa.png)
 
